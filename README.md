@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 
-#Ruby on Rails kitabı
+#Ruby on Rails kitabÄ±
 
-#Görev yöneticisi uygulaması
-Burada rails ile görev yöneticisi uygulamasına ait kodlar falan olacak..
+#Gorev yoneticisi uygulamasÄ±
+Burada rails ile gorev yoneticisi uygulamasÄ±na ait kodlar falan olacak..
+=======
+#Ruby on Rails kitabÄ±
+## GÃ¶rev yÃ¶neticisi uygulamasÄ±
+
+Burada rails ile gÃ¶rev yÃ¶neticisi uygulamasÄ±na ait kodlar falan olacak..
+>>>>>>> eadf06cc481b17685dd77c6e071be952b235f6c1
